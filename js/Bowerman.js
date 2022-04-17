@@ -8,6 +8,4 @@ export default class Bowerman extends Character {
   }
 }
 
-let result = new Bowerman('Bowerman', 'Bowman');
-  result.levelUp();
-  console.log(result);
+
